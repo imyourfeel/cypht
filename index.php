@@ -17,7 +17,7 @@ define('VENDOR_PATH', APP_PATH.'vendor/');
 define('CONFIG_PATH', APP_PATH.'config/');
 define('WEB_ROOT', '');
 define('ASSETS_THEMES_ROOT', '');
-define('DEBUG_MODE', true);
+define('DEBUG_MODE', false);
 define('CACHE_ID', '');
 define('SITE_ID', '');
 define('JS_HASH', '');
